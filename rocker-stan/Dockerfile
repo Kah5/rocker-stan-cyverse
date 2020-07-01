@@ -16,10 +16,5 @@ RUN install2.r -s --error \
 bayesplot \
 brms \
 coda \
-loo \
-projpred \
-rstanarm \
-rstantools \ 
-shinystan \
-tidybayes
+caret
 
